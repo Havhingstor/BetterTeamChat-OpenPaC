@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "betterteamchat-openpac",
+  "version": "${version}",
+
+  "name": "BetterTeamChat OpenPaC",
+  "description": "An addon for BetterTeamChat, which integrates with OpenPartiesAndClaims.",
+  "authors": [
+    "Havhingstor"
+  ],
+  "contact": {},
+
+  "license": "MIT",
+  "icon": "assets/betterteamchat-openpac/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.havhingstor.BetterTeamChat_OpenPaC.BetterTeamChat_OpenPaC"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17",
+    "betterteamchat": "~1.1.0-1.19"
+  }
+}
