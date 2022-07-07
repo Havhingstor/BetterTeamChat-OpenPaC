@@ -1,9 +1,5 @@
-# BetterTeamChat
+# BetterTeamChat-OpenPaC
 
-This minecraft/fabric mod allows the user to automatically send their messages to their team or a specific player, without the need to use the default commands.
+This mod is a add-on for the mod "BetterTeamChat" (https://github.com/Havhingstor/BetterTeamChat), which allows the `stdChatTeam`-command to also target OpenPaC-parties.
 
-## How to use:
-
-Set the current target for plain text chat messages with `/stdChatGlobal`, `/stdChatTeam` or `/stdChatPlayer <Player>`, the current state can be queried with `/stdChat`.
-  
-If the current state isn't global, but one specific message should be sent in the global chat, `/globalmsg <global message>` should be used. 
+This mod is not associated with OpenPaC, which can be found at https://github.com/thexaero/open-parties-and-claims.
