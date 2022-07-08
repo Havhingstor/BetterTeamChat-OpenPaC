@@ -8,7 +8,10 @@
   "authors": [
     "Havhingstor"
   ],
-  "contact": {},
+  "contact": {
+    "sources": "https://github.com/Havhingstor/BetterTeamChat-OpenPaC",
+    "issues": "https://github.com/Havhingstor/BetterTeamChat-OpenPaC/issues"
+  },
 
   "license": "MIT",
   "icon": "assets/betterteamchat-openpac/icon.png",
