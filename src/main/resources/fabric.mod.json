@@ -25,6 +25,7 @@
     "fabric": "*",
     "minecraft": "~1.19",
     "java": ">=17",
-    "betterteamchat": "~1.1.0-1.19"
+    "betterteamchat": "~1.1.0-1.19",
+    "openpartiesandclaims": ">= 0.4.5"
   }
 }
