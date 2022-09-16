@@ -42,7 +42,7 @@ dependencies {
 
 	modImplementation "curse.maven:openpac-636608:3861230"
 
-	modImplementation "com.havhingstor:BetterTeamChat:1.1.0-1.19"
+	modImplementation "com.havhingstor:BetterTeamChat:1.1.0-1.19.2"
 }
 
 processResources {
