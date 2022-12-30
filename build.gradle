@@ -40,9 +40,9 @@ dependencies {
 
 	// modImplementation "net.fabricmc.fabric-api:fabric-api-deprecated:${project.fabric_version}"
 
-	modImplementation "curse.maven:openpac-636608:3861230"
+	modImplementation "curse.maven:openpac-636608:4159962"
 
-	modImplementation "com.havhingstor:BetterTeamChat:1.1.0-1.19.2"
+	modImplementation "com.havhingstor:BetterTeamChat:1.1.0-1.19.3"
 }
 
 processResources {
