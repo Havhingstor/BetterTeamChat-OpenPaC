@@ -12,11 +12,7 @@ public class OpenParty implements CustomTeamType {
 
         IClientPartyStorageAPI parties = api.getClientPartyStorage();
 
-        if (parties != null) {
-            return parties.getParty() != null;
-        }
-
-        return false;
+        return parties.getParty() != null;
     }
 
     @Override
